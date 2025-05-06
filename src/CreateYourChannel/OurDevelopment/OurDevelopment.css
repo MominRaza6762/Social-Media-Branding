@@ -1,0 +1,19 @@
+.ourDevelopment{
+    display: flex;
+    height: 100vh;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 100%;
+    padding: 10px 0;
+    flex-wrap: wrap;
+}
+.ourDevelopmentLeft,
+.ourDevelopmentRight{
+    width: 50%;
+}
+.ourDevelopmentLeft img{
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 30px;
+}
